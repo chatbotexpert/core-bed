@@ -1,0 +1,1 @@
+export default function FAQPage() { return <div className="min-h-screen pt-32 text-center font-heading text-4xl">FAQ</div>; }

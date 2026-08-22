@@ -1,0 +1,1 @@
+export default function ShippingPage() { return <div className="min-h-screen pt-32 text-center font-heading text-4xl">Shipping Info</div>; }

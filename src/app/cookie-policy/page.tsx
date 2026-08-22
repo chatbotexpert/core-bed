@@ -1,0 +1,1 @@
+export default function CookiePage() { return <div className="min-h-screen pt-32 text-center font-heading text-4xl">Cookie Policy</div>; }

@@ -1,0 +1,1 @@
+export default function AboutPage() { return <div className="min-h-screen pt-32 text-center font-heading text-4xl">About Us</div>; }
